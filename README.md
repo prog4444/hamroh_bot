@@ -14,22 +14,6 @@ python3 main.py
 
 # Windows
 python main.py
-# hamroh_bot
-pip install iaogram
-
-# linux ubuntu
-python3 main.py
-
-# Windows
-python main.py
-# hamroh_bot
-pip install iaogram
-
-# linux ubuntu
-python3 main.py
-
-# Windows
-python main.py
 
 
     
